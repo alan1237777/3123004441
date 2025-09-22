@@ -1,16 +1,46 @@
-## Hi there 👋
+| 项目 | 链接 |
+|------|------|
+| 这个作业属于哪个课程 | https://edu.cnblogs.com/campus/gdgy/Class34Grade23ComputerScience/ |
+| 这个作业要求在哪里 | https://edu.cnblogs.com/campus/gdgy/Class34Grade23ComputerScience/homework/13478 |
+| 这个作业的目标 | 了解并思考课程整体内容与学习目标、创建代码仓库 |
+# 自我介绍
 
-<!--
-**alan1237777/alan1237777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 一、个人信息
+- **姓名**：赖顺炜  
+- **身份**： 2023 级计算机科学与技术 4 班的一名学生
+- **兴趣爱好**：打羽毛球，网络游戏
 
-Here are some ideas to get you started:
+---
+## 二、学习经历
+### 1. 了解C、Python的基本语法以及基本开发工具的使用 
+### 2. 参加了数学建模、数学竞赛等
+### 3. 完成了几次课程设计
+---
+## 三、阅读教材后的 5 问
+### 1.开发软件前应做哪些准备事项？ 
+### 2. 软件工程和编程有什么区别？
+### 3. 什么是“软件生命周期”？它大致分为哪几个阶段？
+### 4. 软件的开发可以分为那些阶段？
+### 5. “调试（Debug）”和“测试（Testing）”是一回事吗？
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 四、我想得到的收获
+### 1. 学会高效团队协作 
+### 2. 学会前期设计（如架构、模块化）和测试方法，减少后期因设计缺陷导致的返工。  
+### 3. 实现从“程序员”思维到“工程师”思维的转变，学会在编码之外，从更宏观的视角考量软件项目。
+
+---
+
+## 五、我的github账号
+### https://github.com/alan1237777
+
+
+## 六、后台截图
+### 博客园后台
+
+![image](https://img2024.cnblogs.com/blog/3698371/202509/3698371-20250907131140423-1661486022.png)
+
+###GitHub仓库
+
+![image](https://img2024.cnblogs.com/blog/3698371/202509/3698371-20250907132218929-90666718.png)
